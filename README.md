@@ -1,1 +1,1 @@
-# LGM-WEB-DEVELOPMENT-Internship
+# LGM-Web-Dev-Internship
